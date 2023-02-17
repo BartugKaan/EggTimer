@@ -13,6 +13,7 @@
 		81AA9F6E299FB4E00051D17D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AA9F6C299FB4E00051D17D /* Main.storyboard */; };
 		81AA9F70299FB4E10051D17D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 81AA9F6F299FB4E10051D17D /* Assets.xcassets */; };
 		81AA9F73299FB4E10051D17D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AA9F71299FB4E10051D17D /* LaunchScreen.storyboard */; };
+		81AA9F7B299FBB4D0051D17D /* alarm_sound.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 81AA9F7A299FBB4D0051D17D /* alarm_sound.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		81AA9F6F299FB4E10051D17D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		81AA9F72299FB4E10051D17D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		81AA9F74299FB4E10051D17D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		81AA9F7A299FBB4D0051D17D /* alarm_sound.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = alarm_sound.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 		81AA9F65299FB4E00051D17D /* EggTimer */ = {
 			isa = PBXGroup;
 			children = (
+				81AA9F7A299FBB4D0051D17D /* alarm_sound.mp3 */,
 				81AA9F66299FB4E00051D17D /* AppDelegate.swift */,
 				81AA9F68299FB4E00051D17D /* SceneDelegate.swift */,
 				81AA9F6A299FB4E00051D17D /* ViewController.swift */,
@@ -127,6 +130,7 @@
 			files = (
 				81AA9F73299FB4E10051D17D /* LaunchScreen.storyboard in Resources */,
 				81AA9F70299FB4E10051D17D /* Assets.xcassets in Resources */,
+				81AA9F7B299FBB4D0051D17D /* alarm_sound.mp3 in Resources */,
 				81AA9F6E299FB4E00051D17D /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
